@@ -1,0 +1,6 @@
+W,A,S,D - movement
+
+alt+f4 to close application
+
+after collecting 6 crystals on the spawn platform there is an exit trigger to the left of the player's spawn
+and there's another one on the middle platform on top of the ramps
